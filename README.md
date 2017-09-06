@@ -69,4 +69,4 @@ You will be setting up your development environment as detailed in [Part 4](#env
 4. Open a browser and go to `http://localhost:8080/` to view your page. Note that if for some reason your port 8080 is occupied, it will default to 8081.
 
 ## Submission Details
-More details will be released soon.
+Take a look at uiucwp.com
